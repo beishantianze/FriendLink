@@ -1,0 +1,92 @@
+[
+  {
+    "class_name": "浙里OI",
+    "class_desc": "OIer",
+    "link_list": [
+      {
+        "name": "主播的博客",
+        "link": "https://dimlyl.github.io/",
+        "avatar": "https://cdn.luogu.com.cn/upload/usericon/123026.png",
+        "descr": "主播带我打只狼"
+      },
+      {
+        "name": "sxyugao",
+        "link": "https://sxyugao.top/",
+        "avatar": "https://sxyugao.top/images/avatar.png",
+        "descr": null
+      },
+      {
+        "name": "swwind",
+        "link": "https://blog.sww.moe/",
+        "avatar": null,
+        "descr": null
+      }
+    ]
+  },
+  {
+    "class_name": "朋友们",
+    "class_desc": null,
+    "link_list": [
+      {
+        "name": "zsq的博客",
+        "link": "https://zhangshuqiao.org/",
+        "avatar": "https://zhangshuqiao.org/images/icon.gif",
+        "descr": null
+      },
+      {
+        "name": "半糖的博客",
+        "link": "https://cf.blog.halfsweet.cn/",
+        "avatar": "https://cf.blog.halfsweet.cn/img/Headshot.jpg",
+        "descr": null
+      },
+      {
+        "name": "xiaomage的博客",
+        "link": "https://blog.xmgspace.me/",
+        "avatar": "https://cdn.sep.cc/avatar/35eb088aa93dab2241020481166d74f9",
+        "descr": null
+      },
+      {
+        "name": "无名博客",
+        "link": "https://wuminboke.site/",
+        "avatar": "https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg",
+        "descr": null
+      },
+      {
+        "name": "sjy的blogggg",
+        "link": "https://a233a2.github.io/",
+        "avatar": null,
+        "descr": null
+      },
+      {
+        "name": "BA7NYW的菓子工房",
+        "link": "https://www.ba7nyw.com/",
+        "avatar": "https://www.ba7nyw.com/photos/NTNimage.jpg",
+        "descr": "いらっしゃいませー"
+      }
+    ]
+  },
+  {
+    "class_name": "CTFer",
+    "class_desc": "CTF的朋友们",
+    "link_list": [
+      {
+        "name": "W3nL0u的博客",
+        "link": "https://xyy9233.github.io/",
+        "avatar": "https://xyy9233.oss-cn-beijing.aliyuncs.com/hexoblog/image-20241120201621033.png",
+        "descr": "在学习逆向分析和二进制安全的杂项手（x"
+      },
+      {
+        "name": "BR的博客",
+        "link": "https://blog.yzbrh.top/",
+        "avatar": "https://blog.yzbrh.top/img/avatar.jpg",
+        "descr": "持续性摸鱼，间歇性摆烂"
+      },
+      {
+        "name": "nyyyddddn的博客",
+        "link": "https://nyyyddddn.github.io/",
+        "avatar": "https://nyyyddddn.github.io/favicon.png",
+        "descr": "快来和我贴贴qaq"
+      }
+    ]
+  }
+]
