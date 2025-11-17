@@ -41,6 +41,8 @@
       avatar: https://www.ba7nyw.com/photos/NTNimage.jpg
       descr: いらっしゃいませー
 - class_name: CTFer
+  class_desc: CTF的朋友们
+  link_list:
     - name: W3nL0u的博客
       link: https://xyy9233.github.io/
       avatar: https://xyy9233.oss-cn-beijing.aliyuncs.com/hexoblog/image-20241120201621033.png
