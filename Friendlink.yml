@@ -3,7 +3,7 @@
   link_list:
     - name: 那年Apple雪
       link: https://applnow.github.io/
-      avater: https://avatars.githubusercontent.com/u/236740325?v=4
+      avater: https://avatars.githubusercontent.com/u/236740325
       descr: touhou大蛇
     - name: 主播的博客
       link: https://dimlyl.github.io/
@@ -70,3 +70,15 @@
       link: https://capoo.me/
       avatar:  https://capoo.me/wp-content/uploads/2025/10/icon.jpg
       descr:
+- class_name: 工地
+  class_desc: 工地的朋友们
+  link_list:
+    - name: 精弘网络
+      link: https://zjutjh.github.io
+      avatar: https://avatars.githubusercontent.com/u/28669137
+      descr: 精弘网络技术团队
+  link_list:
+    - name: ZeroHzzzz
+      link: https://blog.zerohzzzz.cn/
+      avatar: https://blog.zerohzzzz.cn/img/ZeroHzzzz.jpg
+      descr: 
