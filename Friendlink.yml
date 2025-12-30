@@ -74,11 +74,14 @@
   class_desc: 工地的朋友们
   link_list:
     - name: 精弘网络
-      link: https://zjutjh.github.io
+      link: https://zjutjh.github.io/
       avatar: https://avatars.githubusercontent.com/u/28669137
       descr: 精弘网络技术团队
-  link_list:
     - name: ZeroHzzzz
       link: https://blog.zerohzzzz.cn/
       avatar: https://blog.zerohzzzz.cn/img/ZeroHzzzz.jpg
       descr: 
+    - name: Fridayssheep
+      link: https://blog.fridayssheep.top/
+      avatar: https://blog.fridayssheep.top/upload/acd23f29-4e54-4f25-86e3-3b7f76b62445.png
+      descr:
