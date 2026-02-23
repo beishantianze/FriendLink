@@ -23,13 +23,13 @@
     - name: sxyugao
       link: https://sxyugao.top/
       avatar: https://sxyugao.top/images/avatar.png
-      descr: 
+      descr:
     - name: swwind
       link: https://blog.sww.moe/
-      avatar: 
+      avatar:
       descr:
 - class_name: 朋友们
-  class_desc: 
+  class_desc:
   link_list:
     - name: zsq的博客
       link: https://zhangshuqiao.org/
@@ -49,7 +49,7 @@
       descr:
     - name: sjy的blogggg
       link: https://a233a2.github.io/
-      avatar: 
+      avatar:
       descr:
     - name: BA7NYW的菓子工房
       link: https://www.ba7nyw.com/
@@ -84,8 +84,13 @@
     - name: ZeroHzzzz
       link: https://blog.zerohzzzz.cn/
       avatar: https://blog.zerohzzzz.cn/img/ZeroHzzzz.jpg
-      descr: 
+      descr:
     - name: Fridayssheep
       link: https://blog.fridayssheep.top/
       avatar: https://blog.fridayssheep.top/upload/acd23f29-4e54-4f25-86e3-3b7f76b62445.png
       descr:
+
+    - name: 折乙
+      link: https://zheyi.in/
+      avatar: https://zheyi.in/_astro/%E5%A4%B4%E5%83%8F%E5%96%B5.CFd65NxP_ZFn8Tf.webp
+      descr: 关注折乙喵 关注折乙谢谢喵
