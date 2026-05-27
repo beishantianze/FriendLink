@@ -74,6 +74,10 @@
       link: https://capoo.me/
       avatar:  https://capoo.me/wp-content/uploads/2025/10/icon.jpg
       descr:
+    - name: Aristore
+      link: https://www.aristore.top/
+      avatar: https://www.aristore.top/images/avatar.png
+      descr: to explore, to innovate.
 - class_name: 工地
   class_desc: 工地的朋友们
   link_list:
